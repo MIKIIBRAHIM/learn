@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(255, 255, 255);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    font-size: 40px;
+    padding-top: 2px;
+}
+h2{
+    padding-left: 650px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tablo{
+    padding-bottom: 120px;
+}
